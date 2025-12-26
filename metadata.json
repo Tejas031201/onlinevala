@@ -1,0 +1,7 @@
+{
+  "name": "Online Vala - Professional Digital Hub",
+  "description": "A comprehensive digital services portal for printing, government form filling, PAN/Aadhaar services, and digital assistance, featuring user and admin dashboards.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
